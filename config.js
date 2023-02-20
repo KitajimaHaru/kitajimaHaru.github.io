@@ -11,7 +11,7 @@ var _config = {
 	//theme
 	theme           : 'default',              // 选择主题
 	//gitalk 评论
-	gitalk_repo     : 'codeComment',          // 储存 Gitalk 评论的仓库(不能和 repo 是同一个
+	gitalk_repo     : 'blogRepo',          // 储存 Gitalk 评论的仓库(不能和 repo 是同一个
 	clientID: 'a1129fae5ba725d51123',
     clientSecret: 'b51ada35f57420425f814ba216ed727f68e36029'
 }
